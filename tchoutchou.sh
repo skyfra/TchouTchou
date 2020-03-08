@@ -1,4 +1,4 @@
-apt install sl
+apt install sl -y
 echo "Le Train Va Démarrer !"
 while [ true ]
 do
