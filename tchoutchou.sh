@@ -1,3 +1,4 @@
+apt install sl
 echo "Le Train Va Démarrer !"
 while [ true ]
 do
