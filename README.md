@@ -5,12 +5,10 @@ TchouTchou est un script permettant de mettre un train :train2:
 
 pour le lancer il suffit juste de faire la commande 
 
-```
+```bash
 chown 777 *
 bash tchoutchou.sh
 ```
-
-
 
 
 
