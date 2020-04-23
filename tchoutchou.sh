@@ -3,7 +3,6 @@ echo "Le Train Va Démarrer !"
 sleep 5
 while [ true ]
 do
-sl 
+sl -e
 sl -laF -e
-sl -a 
 done
