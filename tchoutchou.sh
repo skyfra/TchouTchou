@@ -1,6 +1,22 @@
 apt install sl -y
-echo "Le Train Va Démarrer !"
-sleep 5
+clear
+echo "██"
+sleep 1
+clear
+echo "██ ██ "
+sleep 1
+clear
+echo "██ ██ ██ "
+sleep 1
+clear
+sleep 1
+echo "██"
+sleep 1
+clear
+echo "██ ██ "
+sleep 1
+clear
+echo "██ ██ ██ "
 while [ true ]
 do
 sl -e
