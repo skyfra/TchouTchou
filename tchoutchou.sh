@@ -1,6 +1,6 @@
 apt install sl -y
 clear
-echo "Démarrage du programme en cours !"
+echo "Démarrage du script en cours !"
 sleep 2
 clear
 echo "██"
