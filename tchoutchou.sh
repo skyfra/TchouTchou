@@ -1,7 +1,8 @@
-apt install sl -y
 clear
 echo "Démarrage du script en cours !"
-sleep 2
+sleep 1
+echo "installation des module..."
+apt install sl -y
 clear
 echo "██"
 sleep 1
