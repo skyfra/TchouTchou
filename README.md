@@ -1,4 +1,4 @@
-# TchouTchou
+# TchouTchou (Migré sur git.creepercreep.fr/MichelBaie/TchouTchou)
 __________________________________________________________________________________________________________________________________________
 
 chouTchou est un script permettant de mettre un train grâce au module SL :train2: 
