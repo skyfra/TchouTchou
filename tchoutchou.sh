@@ -4,6 +4,9 @@ sleep 1
 echo "installation des module..."
 apt install sl -y
 clear
+echo "EST-CE QUE T'ES PRÊT POUR UN MAXIMUM DE FUN ?"
+sleep 3
+clear
 echo "██"
 sleep 1
 clear
