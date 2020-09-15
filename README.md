@@ -1,10 +1,11 @@
 # TchouTchou
 __________________________________________________________________________________________________________________________________________
 
-chouTchou est un script permettant de mettre un train grâce au module SL :train2: 
+TchouTchou est le tout premier script féroviaire de Github :train2: 
+Lance-le et découvre les voies et wagons.
 
 
-pour le lancer il suffit juste de faire la commande 
+Afin de le lancer, nous vous avons réalisé une commande simplifiée :
 
 ```bash
 bash <(curl -Ss https://raw.githubusercontent.com/MichelBaie/TchouTchou/master/tchoutchou.sh)
@@ -27,7 +28,7 @@ Remerciements à :
 - [louino](https://github.com/louino2478)
   
 
-  Pour avoir améliorer le projet de jour en jour !
+  Pour avoir amélioré le projet de jour en jour !
   __________________________________________________________________________________________________________________________________________
 
 
