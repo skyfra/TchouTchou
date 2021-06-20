@@ -4,7 +4,7 @@ wait 1
 
 if ! [ -x "$(command -v sl)" ]; then
   echo "* le package sl requis pour faire fonctionner ce script"
-  echo "* utilise apt install sl pour installer la train tchoutchou"
+  echo "* utilise apt install sl pour installer tchoutchou"
   
   if [[ $EUID -ne 0 ]]; then
     echo "* Tu dois avoir accés au root afin d'installer le module" 1>&2
