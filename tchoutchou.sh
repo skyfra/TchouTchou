@@ -1,17 +1,27 @@
-echo "Installation des dépendances ..."
+echo "Bienvenue dans tchoutchou le tout premier script ferroviaire de github" 
+echo "Nous allons avant tout vérifier que tchoutchou peut se lancer sur ta machine..." 
 
-sleep 2
+if ! [ -x "$(command -v sl)" ]; then
+  echo "* le package sl requis pour faire fonctionner ce script"
+  echo "* utilise apt install sl pour installer tchoutchou"
 
-apt update
-apt install sl -y
+  if [[ $EUID -ne 0 ]]; then
+    echo "* Tu dois avoir accés au root afin d'installer le module" 1>&2
+    exit 1
+  fi
+
+  apt install sl -y
+
+  exit 1
+fi
 
 clear
 
-echo "! une fois le train lancé, enfoncée CTRL+C pendant quelque seconde pour stoper le train !"
+echo "! une fois le train lancé, enfoncez CTRL+C pendant quelque seconde pour stoper le train !"
 read -p "appuyer sur ENTRER pour lancer le train"
 
 clear
-echo "Lancement de TchouTchou.sh (édition 2021)"
+echo "Lancement de TchouTchou.sh (édition summer 2021)"
 sleep 1
 
 for (( ; ; ))
