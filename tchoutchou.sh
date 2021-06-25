@@ -1,6 +1,6 @@
 echo "Installation des dépendances ..."
 
-wait 1
+sleep 2
 
 apt update
 apt install sl -y
@@ -19,7 +19,4 @@ do
    sl -e
    sl -laF -e
 done
-
-
-clear 
-echo "merci"
+clear
