@@ -1,7 +1,7 @@
 # TchouTchou
 __________________________________________________________________________________________________________________________________________
 
-TchouTchou est le tout premier script féroviaire de Github :train2: 
+TchouTchou est le tout premier script ferroviaire de Github :train2: 
 Lance-le et découvre les voies et wagons.
 
 
