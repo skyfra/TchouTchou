@@ -15,11 +15,15 @@ bash <(curl -Ss https://raw.githubusercontent.com/MichelBaie/TchouTchou/master/t
 
 Remerciements à : 
 
+- [ReiTW](https://github.com/Rei-Tw)
+
 - [Aven678](https://github.com/Aven678)
 
 - [skyfra](https://github.com/skyfra)
 
 - [MichelBaie](https://github.com/MichelBaie)
+
+- [Julesdur](https://github.com/julesdur)
 
 - [louino](https://github.com/louino2478)
   
